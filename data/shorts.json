@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "user": "@coach_alex",
+    "title": "5-min morning mobility to wake up your hips",
+    "tag": "Mobility",
+    "g": [
+      "#D7FF3E",
+      "#15170d"
+    ],
+    "likes": 1240,
+    "comments": 88,
+    "liked": false
+  },
+  {
+    "id": 2,
+    "user": "@sarah.yoga",
+    "title": "Nail your Warrior II — 3 quick cues",
+    "tag": "Yoga",
+    "g": [
+      "#FF4D5E",
+      "#1a1115"
+    ],
+    "likes": 3410,
+    "comments": 201,
+    "liked": false
+  },
+  {
+    "id": 3,
+    "user": "@fitpulse",
+    "title": "3 cues for a bigger, safer squat",
+    "tag": "Strength",
+    "g": [
+      "#4DA8FF",
+      "#0f1622"
+    ],
+    "likes": 8800,
+    "comments": 540,
+    "liked": false
+  },
+  {
+    "id": 4,
+    "user": "@mia_hiit",
+    "title": "30-second finisher that will torch you 🔥",
+    "tag": "HIIT",
+    "g": [
+      "#FFB13E",
+      "#1d1810"
+    ],
+    "likes": 2120,
+    "comments": 130,
+    "liked": false
+  },
+  {
+    "id": 5,
+    "user": "@plant_gains",
+    "title": "High-protein vegan smoothie in 60s",
+    "tag": "Nutrition",
+    "g": [
+      "#7BD1A0",
+      "#101a14"
+    ],
+    "likes": 1670,
+    "comments": 96,
+    "liked": false
+  }
+]

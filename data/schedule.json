@@ -1,0 +1,131 @@
+[
+  {
+    "dn": "Mon",
+    "dd": 19,
+    "n": 2,
+    "cls": [
+      [
+        "07:00",
+        "AM",
+        "Strength · Upper",
+        "Coach Alex",
+        "A",
+        "#D7FF3E"
+      ],
+      [
+        "18:30",
+        "PM",
+        "HIIT Burn",
+        "Coach Sarah",
+        "S",
+        "#FF4D5E"
+      ]
+    ]
+  },
+  {
+    "dn": "Tue",
+    "dd": 20,
+    "n": 1,
+    "cls": [
+      [
+        "06:30",
+        "AM",
+        "Morning Yoga",
+        "Coach Sarah",
+        "S",
+        "#FF4D5E"
+      ]
+    ]
+  },
+  {
+    "dn": "Wed",
+    "dd": 21,
+    "n": 3,
+    "today": true,
+    "cls": [
+      [
+        "07:00",
+        "AM",
+        "Strength · Legs",
+        "Coach Alex",
+        "A",
+        "#D7FF3E"
+      ],
+      [
+        "12:30",
+        "PM",
+        "Mobility Flow",
+        "Coach Sarah",
+        "S",
+        "#FF4D5E"
+      ],
+      [
+        "19:00",
+        "PM",
+        "HIIT Conditioning",
+        "Coach Alex",
+        "A",
+        "#D7FF3E"
+      ]
+    ]
+  },
+  {
+    "dn": "Thu",
+    "dd": 22,
+    "n": 1,
+    "cls": [
+      [
+        "18:00",
+        "PM",
+        "Fat Loss Circuit",
+        "Coach Alex",
+        "A",
+        "#D7FF3E"
+      ]
+    ]
+  },
+  {
+    "dn": "Fri",
+    "dd": 23,
+    "n": 2,
+    "cls": [
+      [
+        "07:00",
+        "AM",
+        "Strength · Push",
+        "Coach Alex",
+        "A",
+        "#D7FF3E"
+      ],
+      [
+        "17:30",
+        "PM",
+        "Rehab & Stretch",
+        "Coach Sarah",
+        "S",
+        "#FF4D5E"
+      ]
+    ]
+  },
+  {
+    "dn": "Sat",
+    "dd": 24,
+    "n": 1,
+    "cls": [
+      [
+        "09:00",
+        "AM",
+        "Weekend Yoga",
+        "Coach Sarah",
+        "S",
+        "#FF4D5E"
+      ]
+    ]
+  },
+  {
+    "dn": "Sun",
+    "dd": 25,
+    "n": 0,
+    "cls": []
+  }
+]
