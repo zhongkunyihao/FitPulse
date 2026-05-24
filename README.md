@@ -4,7 +4,7 @@
 
 A mobile fitness app built as a static web app (PWA). The source is split into clean, separate files — HTML for structure, CSS for styling, JavaScript for logic, and JSON for data — and a small Python script bundles it all into a single, installable HTML file. No frameworks, no npm, no server required.
 
-Jump to: [Features](#features) · [Project Structure](#project-structure) · [Quick Start](#quick-start) · [Build](#build) · [Deploy to GitHub Pages](#deploy-to-github-pages) · [Install on iPhone](#install-on-iphone) · [中文说明](#中文说明)
+Jump to: [App Video](#App Video) · [Features](#features) · [Project Structure](#project-structure) · [Quick Start](#quick-start) · [Build](#build) · [Deploy to GitHub Pages](#deploy-to-github-pages) · [Install on iPhone](#install-on-iphone) · [中文说明](#中文说明)
 
 ---
 ## App Video
