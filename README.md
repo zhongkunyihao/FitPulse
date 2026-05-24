@@ -7,6 +7,11 @@ A mobile fitness app built as a static web app (PWA). The source is split into c
 Jump to: [Features](#features) · [Project Structure](#project-structure) · [Quick Start](#quick-start) · [Build](#build) · [Deploy to GitHub Pages](#deploy-to-github-pages) · [Install on iPhone](#install-on-iphone) · [中文说明](#中文说明)
 
 ---
+## App Video
+
+https://github.com/user-attachments/assets/b6a7f157-fb8c-4cd9-b45d-32896b382331
+
+
 
 ## Features
 
